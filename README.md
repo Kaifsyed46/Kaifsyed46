@@ -15,7 +15,7 @@
 I am a passionate and dedicated Computer Science professional specializing in Artificial Intelligence (AI) and Machine Learning (ML) with hands-on experience in data analysis, predictive modeling, and full-stack development. My academic journey is enriched with a robust foundation in programming, blockchain technology, and cutting-edge applications of AI/ML in solving real-world challenges.
 
 ### 🛠️ Skills & Expertise
-Programming: Proficient in Python, C++, Java, and C, with accolades like a 5-star HackerRank badge in Python and C++ and Solve the 300+ questions on Leetcode.
+Programming: Proficient in Python, C++, Java, and C, with accolades like a 5-star HackerRank badge in Python, C++ and Java.
 Machine Learning & AI: Experienced in using libraries like Scikit-learn, TensorFlow, Pandas, and NumPy for data modeling and analysis.
 Blockchain Technology: Core member of a Blockchain R&D team, actively working on some verification systems.
 Data Visualization: Expertise in creating compelling dashboards and visualizations for insights using tools like Matplotlib and Streamlit.
@@ -44,26 +44,11 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaifsyed46&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifsyed46&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="center">Leetcode Info<h2>
- 
-<p align="center">
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="90" width="90" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="90" width="90" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="90" width="90" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="90" width="90" />
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="90" width="90" />
-  
-  </a>
-    
-<p align="center">
-  
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Uditya_Narayan_Tiwari?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
-</p>
 
 ### 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=Kaifsyed46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **uditmerit@gmail.com**
+- 📫 How to reach me **kaifsyed46@gmail.com**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
